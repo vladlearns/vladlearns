@@ -3,7 +3,7 @@
 - 💼 Currently work at [Varteq](https://varteq.com/);
 - 🌱 I’m currently learning Typescript;
 - 👨‍💻 Really in to QA practices and Security;
-- ⚡ Fun fact: I like swimming, generative sound design and computer graphics;
+- ⚡ Fun fact: I like swimming, generative sound design and computer graphics.
 
 
 ### Languages and Tools
