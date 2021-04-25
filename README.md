@@ -16,7 +16,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="Visual Studio Code"></code>
 
-[![vladlearns GitHub stats](https://github-readme-stats.vercel.app/api?username=vladlearns&theme=material-palenight)](https://www.youtube.com/channel/UC1_KWu2dcZokAhmWsSCC_Cg)
+[![vladlearns GitHub stats](https://github-readme-stats.vercel.app/api?username=vladlearns&theme=chartreuse-dark)](https://www.youtube.com/channel/UC1_KWu2dcZokAhmWsSCC_Cg)
 
 ---
 
