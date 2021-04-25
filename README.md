@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm a QA and a Software Engineer from Kyiv.
 
-- 💼 Currently work at [Varteq](https://varteq.com/);
-- 🌱 I’m currently learning Typescript;
+- 💼 QA at [Varteq](https://varteq.com/);
+- 🌱 Learning Typescript;
 - 👨‍💻 Really in to QA practices and Security;
 - ⚡ Fun fact: I like swimming, generative sound design and computer graphics.
 
