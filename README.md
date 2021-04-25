@@ -28,18 +28,6 @@
 [<img align="left" alt="vladlearns | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="vladlearns | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
-
----
-
-<details>
-  <summary>⚡ GitHub Stats</summary>
-
-  <img alt="vladlearns GitHub Stats" src="(https://github-readme-stats.vercel.app/api?username=vladlearns&show_icons=true&hide_border=true)" />
-
-</details>
-
----
 
 [twitter]: https://twitter.com/vladlearns
 [instagram]: https://instagram.com/vladlearns
