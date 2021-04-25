@@ -3,7 +3,6 @@
 - 💼 Currently work at [Varteq](https://varteq.com/);
 - 🌱 I’m currently learning Typescript;
 - 👨‍💻 Really in to QA practices and Security;
-- [youtube]: https://www.youtube.com/channel/UC1_KWu2dcZokAhmWsSCC_Cg Author of the vladlearns youtube channel;
 - ⚡ Fun fact: I like swimming, generative sound design and computer graphics;
 
 
@@ -35,5 +34,5 @@
 [instagram]: https://instagram.com/vladlearns
 [reddit]: https://www.reddit.com/user/vladlearns
 [linkedin]: https://www.linkedin.com/in/vladlearns/
-
+[youtube]: https://www.youtube.com/channel/UC1_KWu2dcZokAhmWsSCC_Cg
 
