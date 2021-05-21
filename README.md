@@ -2,7 +2,7 @@
 
 - 💼 QA at [Varteq](https://varteq.com/);
 - 🌱 Learning Typescript;
-- 👨‍💻 Really in to QA practices and Security;
+- 👨‍💻 Really into QA practices and Security;
 - ⚡ Fun fact: I like generative sound design and computer graphics.
 
 
