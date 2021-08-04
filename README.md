@@ -1,6 +1,6 @@
-### Hi there 👋, I'm a QA and a Software Engineer from Kyiv.
+### Hi there 👋, I'm an AQA Engineer from Kyiv.
 
-- 💼 QA at [Varteq](https://varteq.com/);
+- 💼 I'm looking for a new place;
 - 🌱 Learning Typescript;
 - 👨‍💻 Really into QA practices and Security;
 - ⚡ Fun fact: I like generative sound design and computer graphics.
