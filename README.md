@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm an AQA Engineer from Kyiv.
 
-- 💼 I'm looking for a new place;
+- 💼 ;
 - 🌱 Learning Typescript;
 - 👨‍💻 Really into QA practices and Security;
 - ⚡ Fun fact: I like generative sound design and computer graphics.
