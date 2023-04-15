@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm an AQA Engineer from Kyiv.
 
-- 💼 ELEKS;
+- 💼 Looking for a new place;
 - 🌱 Learning to take it easy;
-- 👨‍💻 Really into QA practices and Security;
+- 👨‍💻 Really into DS/ML, dev and ops;
 - ⚡ Fun fact: I like generative sound design and computer graphics.
 
 
