@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm an AQA Engineer from Kyiv.
 
-- 💼 Self-employed;
+- 💼 Independent Contractor, NDA;
 - 🌱 Learning to take it easy;
 - 👨‍💻 Really into DS/ML, dev and ops;
 - ⚡ Fun fact: I like generative sound design and computer graphics.
