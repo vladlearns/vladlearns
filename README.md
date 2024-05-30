@@ -1,4 +1,4 @@
-### Hi there 👋, I'm an AQA Engineer from Kyiv.
+### Hi there 👋, I'm an Engineer from Kyiv.
 
 - 💼 Independent Contractor, NDA;
 - 👨‍💻 Really into sec and ops;
